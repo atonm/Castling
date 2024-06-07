@@ -1,0 +1,37 @@
+
+=== Mon Aug  8 05:03:57 2022
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were 更新済:
+  com.unity.collab-proxy をバージョン 1.15.4 から 1.15.17 へ
+  com.unity.ide.rider をバージョン 2.0.7 から 3.0.14 へ
+  com.unity.ide.visualstudio をバージョン 2.0.12 から 2.0.15 へ
+  com.unity.ide.vscode をバージョン 1.2.4 から 1.2.5 へ
+  com.unity.test-framework をバージョン 1.1.29 から 1.1.31 へ
+  com.unity.timeline をバージョン 1.4.8 から 1.6.4 へ
+
+=== Sat Aug 13 10:38:17 2022
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.collab-proxy from version 1.15.17 to 1.15.18
+  com.unity.ide.rider from version 3.0.14 to 3.0.15
+  com.unity.ide.visualstudio from version 2.0.15 to 2.0.16
+
+=== Sat May  4 17:03:13 2024
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were added:
+  com.unity.ai.navigation@1.1.5
+The following packages were updated:
+  com.unity.collab-proxy from version 1.15.18 to 2.3.1
+  com.unity.ide.rider from version 3.0.15 to 3.0.28
+  com.unity.ide.visualstudio from version 2.0.16 to 2.0.22
+  com.unity.test-framework from version 1.1.31 to 1.1.33
+  com.unity.timeline from version 1.6.4 to 1.7.6
