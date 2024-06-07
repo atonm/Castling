@@ -21,4 +21,8 @@ roles.cs
 toDontlook.cs  
 toExplanation.cs  
 toResult.cs  
-toRule.cs
+toRule.cs  
+
+全てAssets/Scriptsに入っています。  
+
+
